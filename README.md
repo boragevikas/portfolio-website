@@ -51,7 +51,7 @@ portfolio-website
 5. **Deploy to GitHub Pages:**
    - Make sure to set the homepage in `package.json`:
      ```json
-     "homepage": "https://boragevikast.github.io/portfolio-website"
+     "homepage": "https://boragevikas.github.io/portfolio-website"
      ```
    - Then run:
      ```bash
